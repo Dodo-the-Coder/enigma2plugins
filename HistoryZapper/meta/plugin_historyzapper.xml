@@ -1,0 +1,25 @@
+<default>
+	  <prerequisites>
+				<!--
+		            <hardware type="dm8000" />
+                    <hardware type="dm7020hd" />
+                    <hardware type="dm800se" />
+                    <hardware type="dm500hd" />
+				-->
+                    <tag type="Multimedia" />
+					<!--<tag type="Software" />-->
+	  </prerequisites>
+	  
+          <info>
+                    <author>Donumadeus</author>
+                    <name>History-Zapper</name>
+                    <packagename>enigma2-plugin-extensions-historyzapper</packagename>
+                    <shortdescription>Shows a selectable list of recent zap entries</shortdescription>
+                    <description>Shows a list containing the zapping-history and allows user to zap to the entries.</description>
+                    <!--<screenshot src="http://www.dreamboxupdate.com/preview/plugin_zaphistorybrowser_en.jpg" />		    -->
+          </info>
+
+	  <files type="package"> <!-- without version, without .ipk -->
+		<file type="package" name="enigma2-plugin-extensions-historyzapper" />
+	  </files>
+</default>

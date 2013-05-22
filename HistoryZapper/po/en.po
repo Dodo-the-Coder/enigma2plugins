@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HistoryZapper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-22 18:51+0100\n"
+"PO-Revision-Date: 2013-05-22 18:51+0100\n"
+"Last-Translator: donumadeus <neerod_s@gmx.de>\n"
+"Language-Team: \n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: D:\\development\\enigma2-plugins\\zaphistory\\src\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: D:\\development\\enigma2-plugins\\zaphistory\\src\n"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:50
+msgid "disabled"
+msgstr "disabled"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:50
+msgid "enabled"
+msgstr "enabled"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:111
+msgid "HistoryZapperConfiguratorTitle"
+msgstr "History-Zapper Config"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:118
+msgid "ConfEnableZapHistory:"
+msgstr "Enable Zap History:"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:119
+msgid "ConfMaximumZapHistoryEntries:"
+msgstr "Maximum Zap History Entries:"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:120
+msgid "ConfDontOverrideSkinFont"
+msgstr "Don't override Skin's Font"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:171
+msgid "HistoryZapperTitle"
+msgstr "History-Zapper"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:189
+msgid "Clear"
+msgstr "Clear"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:190
+msgid "Config"
+msgstr "Config"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:361
+msgid "History-Zapper-Conf"
+msgstr "History-Zapper Conf"
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:362
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:369
+msgid "HistoryZapperDescription"
+msgstr ""
+"With the History-Zapper you can switch between all previously watched "
+"channels."
+
+#: D:\development\enigma2-plugins\zaphistory\src/plugin.py:368
+msgid "History-Zapper"
+msgstr "History-Zapper"
